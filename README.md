@@ -3,9 +3,13 @@ OverView of Project Explaine the purpose of this analysis.
     The overall purpose of this analysis, was to analyis Steve's 12 different stocks data using excel and VBA. The reason behind analyis of Steve's stock is to determine if they are worth investing in. 
     
 Results
+
     The Results in the analysis deals with 12 different stocks, and their history. I Examand the Value of each stock and the date of the stock was issued and the difference between the opening price and the closing price, also the highest and lowest stock prices. End goal was to see what the Value, daily volume, and the return on each of the 12 stocks are, if there was even any return at all.  
+    
+    
 Summary 
-    What are the advantages or disadvantages of refactoring code? The advantage of refactoring the code from the orginal code is to make it more orginized. Clean code is easier to read and understand, also more efficiant and faster programing using shortcuts. Also easier to understand what is going on and what the end goal is. The disadvantage is sometimes you cannot refactor code at all, due to an application being to big or not having the correct refactoring code to reach the goal of your analysis. 
+
+    What are the advantages or disadvantages of refactoring code? The advantage of refactoring the code from the orginal code is to make it more orginized. Clean code is easier to read and understand, also more efficiant and faster programing using shortcuts. Also easier to understand what is going on and what the end goal is. The disadvantage is sometimes you cannot refactor code at all, due to an application being to big or not having the correct refactoring code to reach the goal of your analysis.
     How do these pros and cons apply to refactoring the original VBA script?
        The speed it took for the refactor code to analyis the stock. The macro run rate was slower than the orginal VBA script.
         
