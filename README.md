@@ -15,7 +15,8 @@ Summary
         
 Code used:
 
-    '1a) Create a ticker Index
+
+'1a) Create a ticker Index
 tickerIndex = 0
 
 '1b) Create three output arrays
